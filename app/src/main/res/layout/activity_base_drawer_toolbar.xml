@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    tools:context=".feature.main.MainActivity" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <com.lcpay.pos.feature.base.view.BaseToolbar android:id="@+id/toolbar"
+      android:layout_width="match_parent" android:layout_height="44dp"
+      android:layout_alignParentTop="true" android:gravity="center"/>
+
+  <FrameLayout android:id="@+id/container_content" android:layout_width="match_parent"
+      android:layout_height="match_parent" android:layout_below="@id/toolbar">
+  </FrameLayout>
+</RelativeLayout>

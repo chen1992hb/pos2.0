@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+  <TextView
+  android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+  />
+  <!--<RelativeLayout android:layout_width="match_parent"-->
+      <!--android:layout_height="@dimen/layout_width_50dp" android:layout_alignParentBottom="true"-->
+      <!--android:background="@drawable/bg_bottom_bar" android:orientation="horizontal">-->
+
+    <!--<View android:layout_width="match_parent" android:layout_height="@dimen/app_margin_3dp"-->
+        <!--android:background="@color/white5"/>-->
+
+    <!--<com.suncityapps.suncity.widget.TintableImageView android:id="@+id/img_bottom_left"-->
+        <!--app:tint="@color/selector_tintable_tran_to_white" android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent" android:layout_alignParentLeft="true"-->
+        <!--android:layout_gravity="center" android:clickable="true"-->
+        <!--android:foreground="?selectableItemBackgroundBorderless"-->
+        <!--android:paddingLeft="@dimen/app_margin_16dp" android:paddingRight="@dimen/app_margin_16dp"-->
+        <!--android:src="@drawable/icon_tabbar_menu"/>-->
+    <!--<com.suncityapps.suncity.widget.TintableImageView android:id="@+id/img_bottom_right"-->
+        <!--app:tint="@color/selector_tintable_tran_to_white" android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent" android:layout_alignParentRight="true"-->
+        <!--android:clickable="true" android:foreground="?selectableItemBackgroundBorderless"-->
+        <!--android:paddingLeft="@dimen/app_margin_16dp" android:paddingRight="@dimen/app_margin_16dp"-->
+        <!--android:src="@drawable/icon_tabbar_settings"/>-->
+  <!--</RelativeLayout>-->
+
+  <!--<ImageView android:id="@+id/img_bottom_center" android:layout_width="@dimen/layout_width_65dp"-->
+      <!--android:layout_height="@dimen/layout_height_60dp" android:layout_alignParentBottom="true"-->
+      <!--android:layout_centerHorizontal="true" android:foreground="?selectableItemBackground"-->
+      <!--android:paddingTop="@dimen/app_margin_5dp" android:scaleType="centerCrop"-->
+      <!--android:src="@drawable/icon_tabbar_chat"/>-->
+
+  <!--<TextView android:id="@+id/txt_bottom_left"-->
+      <!--android:layout_width="wrap_content" android:layout_height="@dimen/layout_height_24dp"-->
+      <!--android:minWidth="@dimen/layout_width_24dp"-->
+      <!--android:layout_alignParentBottom="true" android:layout_marginBottom="@dimen/app_margin_38dp"-->
+      <!--android:layout_marginLeft="@dimen/app_margin_48dp" tools:background="@drawable/rectangle_bg_red"-->
+      <!--android:paddingLeft="@dimen/app_padding_5dp" android:paddingRight="@dimen/app_padding_5dp"-->
+      <!--tools:text="999+" android:textColor="@color/white"-->
+      <!--android:gravity="center"/>-->
+
+</merge>

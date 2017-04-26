@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">pos</string>
+  <string name="toolbar_back">返回</string>
+  <string name="loading">loading</string>
+</resources>

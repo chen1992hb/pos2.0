@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+  <color name="colorPrimary">@color/black</color>
+  <color name="colorPrimaryDark">@color/black</color>
+  <color name="colorAccent">@color/black</color>
+  <color name="windowBackground">@color/black</color>
+
+  <color name="loantextColor">#A89570</color>
+  <color name="dust40">#C1B38A</color>
+  <color name="dust50">#BBAD84</color>
+  <color name="dust100">#86754D</color>
+
+  <color name="gray">#404040</color>
+  <color name="transparent">#00000000</color>
+  <!-- 透明色 -->
+  <color name="white">#ffffffff</color>
+  <!-- 100%的白色 -->
+  <color name="white95">#f2ffffff</color>
+  <!-- 95%的白色 标准对话框背景色 -->
+  <color name="white87">#ffffff</color>
+  <color name="white90">#EDEDED</color>
+  <!-- 87%的白色 按钮文本颜色 -->
+  <color name="white70">#f0f0f0</color>
+  <!-- 70%的白色 -->
+  <color name="white60">#99ffffff</color>
+
+  <!-- 60%的白色 -->
+  <color name="white50">#7fffffff</color>
+  <!-- 50%的白色,登录界面登录按钮下面文本按钮颜色 -->
+  <color name="white30">#4cffffff</color>
+  <!-- 30%的白色, -->
+  <color name="white20">#38ffffff</color>
+  <!-- 20%的白色 输入框默认水印文本颜色 -->
+  <color name="white15">#26ffffff</color>
+  <!-- 15%的白色 按钮的填充色,横向分割线颜色 -->
+  <color name="white10">#19ffffff</color>
+  <!-- 10%的白色 登陆界面输入部分背景填充色 -->
+  <color name="black">#000000</color>
+
+  <color name="base_yellow">#FFD041</color>
+  <!-- 时间设置框黑色文本 -->
+  <color name="black50">#7f000000</color>
+  <!-- 50%的黑色 我爱我家gridview单项选中填充描边 -->
+  <color name="black48">#7a000000</color>
+  <!-- 48%的黑色 我爱我家gridview单项默认填充，底部菜单背景 -->
+  <color name="black30">#4c000000</color>
+  <!-- 30%的黑色 我爱我家gridview单项默认描边 -->
+  <color name="black20">#38000000</color>
+  <!-- 20%的黑色 我爱我家gridview单项默认填充，底部菜单背景 -->
+  <color name="black10">#10000000</color>
+  <color name="black5">#06000000</color>
+  <!-- 20%的黑色 我爱我家gridview单项默认填充，底部菜单背景 -->
+  <color name="whieteallfunction">#EEEEEE</color>
+  <color name="version2black">#252525</color>
+  <color name="startblack">#3D3D3D</color>
+  <color name="blue_button">#44b9f5</color>
+  <!-- 蓝色 -->
+  <color name="blue">#1f90d6</color>
+  <!-- 蓝色背景 -->
+  <color name="blueactive">#1f7bb3</color>
+  <!-- 蓝色点击背景 -->
+  <color name="flow_blue">#4ab4f2</color>
+  <color name="flow_green">#83c800</color>
+  <color name="xy_gray_line">#96a5ac</color>
+
+  <!-- liushusheng begin -->
+  <color name="black_gold">#E7B949</color>
+
+  <!-- start -->
+  <color name="footmenu">#ddffffff</color>
+  <color name="topbg">#d5e3e7</color>
+  <!-- app顶部中央字体颜色 -->
+  <color name="footbg">#8c091b29</color>
+  <!-- app底部菜单背景，透明度55% -->
+  <!-- end -->
+
+  <color name="unicom_wificover_intensity">#6bc9b2</color>
+  <color name="unicom_wificover_outerring_color">#dddddd</color>
+  <color name="unicom_wificover_innerring_color">#bdbdbd</color>
+  <color name="unicom_bg">#f1f1f1</color>
+  <color name="unicom_title_text_color">#6a6a6a</color>
+  <color name="unicom_title_bar_color">#d9d9d9</color>
+  <color name="unicom_general_button">#fd7f06</color>
+  <color name="unicom_general_button_press">#f56415</color>
+  <color name="unicom_nav_bg_color">#f9f9f9</color>
+  <color name="unicom_split_bottom_color">#e2e2e2</color>
+  <color name="unicom_split_bottom_icon">#ff9d3f</color>
+  <color name="wy_top_color">#f1f1f1</color>
+  <color name="wy_topright_color">#fd7f06</color>
+  <color name="fltitile_color">#f1f1f1</color>
+  <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="help_button_view">#ffcccccc</color>
+  <color name="help_view">#ff404040</color>
+  <color name="possible_result_points">#c0ffff00</color>
+  <color name="result_image_border">#ffffffff</color>
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c000ff00</color>
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+  <color name="sbc_header_text">#ff808080</color>
+  <color name="sbc_header_view">#ffffffff</color>
+  <color name="sbc_list_item">#fffff0e0</color>
+  <color name="sbc_layout_view">#ffffffff</color>
+  <color name="sbc_page_number_text">#ff000000</color>
+  <color name="sbc_snippet_text">#ff4b4b4b</color>
+  <color name="share_text">#ff000000</color>
+  <color name="share_view">#ffffffff</color>
+  <color name="status_view">#50000000</color>
+  <color name="status_text">#ffffffff</color>
+  <color name="viewfinder_frame">#ff000000</color>
+  <color name="viewfinder_laser">#ffff0000</color>
+  <color name="viewfinder_mask">#60000000</color>
+  <color name="common_red">#992211</color>
+  <color name="zhifubaocircle">#FFB30A</color>
+  <color name="shaukacircle">#ffb30a</color>
+  <color name="weixincircle">#50b32e</color>
+  <color name="allblue">#ff4d4d</color>
+  <color name="red">#FF0000</color>
+  <color name="shezhi">#4D97FE</color>
+  <color name="jiaoyichaxun">#00B2B2</color>
+  <color name="float_transparent">#00000000</color>
+  <color name="sweet_dialog_bg_color">#FFFFFF</color>
+  <color name="button_text_color">#FFFFFF</color>
+  <color name="gray_btn_bg_color">#CBCDCF</color>
+  <color name="gray_btn_bg_pressed_color">#FFBA00</color>
+  <color name="blue_btn_bg_color">#AEDEF4</color>
+  <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+  <color name="red_btn_bg_color">#FF4D4D</color>
+  <color name="red_btn_bg_pressed_color">#FF4D4D</color>
+  <color name="error_stroke_color">#F27474</color>
+  <color name="success_stroke_color">#FFFFFFFF</color>
+  <color name="trans_success_stroke_color">#33A5DC86</color>
+  <color name="warning_stroke_color">#F8BB86</color>
+  <color name="material_blue_grey_80">#ff37474f</color>
+  <color name="material_deep_teal_20">#ff80cbc4</color>
+  <color name="material_deep_teal_50">#ff009688</color>
+  <color name="dust">#afa077</color>
+  <!--标题颜色-->
+  <color name="TitileColor">#FFCE39</color>
+  <color name="material_green_A200">#FD87A9</color>
+
+  <color name="popbtncolor">#FEA100</color>
+  <color name="gary">#CCCCCC</color>
+  <color name="gold_xlight">#3386754d</color>
+  <color name="gold">#86754d</color>
+
+  <color name="t0_search_remain_btn">#FB4949</color>
+  <color name="t0_search_remain_footer">#4DB7FA</color>
+  <color name="t0_search_remain_header_bg">#333333</color>
+
+
+
+  <!--SuncityCalendarPicker-->
+  <!--<color name="calendarNormalDay">#ffffffff</color>-->
+  <!--<color name="calendarLabelBackground">#f7f6f2</color>-->
+  <!--<color name="calendarFirstEqualsLastNumColor">#ffffffff</color>-->
+  <!--<color name="calendarSelectedDayText">#fff2f2f2</color>-->
+  <!--<color name="calendarColorCurrentDay">#FF625050</color>  -->
+
+  <color name="calendarNormalDay">@color/black</color>
+  <color name="calendarLabelBackground">#FF625050</color>
+  <color name="calendarFirstEqualsLastNumColor">@color/black</color>
+  <color name="calendarSelectedDayText">@color/black</color>
+  <color name="calendarColorCurrentDay">#FF625050</color>
+
+  <color name="calendarSelectedRect">#4FFFD041</color>
+  <color name="calendarSelectedCircle">@color/base_yellow</color>
+  <color name="calendarSelectedFirstColor">@color/base_yellow</color>
+  <color name="calendarBtnDisableBg">#FFEEECE5</color>
+  <color name="calendarBg">#FF5A0B56</color>
+  <color name="calendarSeperatorColor">#55cccccc</color>
+  <color name="calendarDisableDayTextColor">@color/white_30percent_alpha</color>
+  <color name="white_30percent_alpha">#4cffffff</color>
+  <color name="calendarMonthTitleBg">#fff2f2f2</color>
+  <!--<color name="gray">#6e6e6e</color>-->
+
+</resources>

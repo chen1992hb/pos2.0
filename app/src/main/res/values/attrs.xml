@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="AppToolbar">
+    <attr format="boolean" name="ShowBack"/>
+    <attr format="string" name="BackText"/>
+    <attr format="string" name="TitleText"/>
+    <attr format="string" name="SubTitleText"/>
+    <attr format="reference" name="Logo"/>
+  </declare-styleable>
+</resources>

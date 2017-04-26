@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <dimen name="app_textsize">20sp</dimen>
+  <!-- 全局正文文本大小 -->
+  <dimen name="app_title_textsize">14sp</dimen>
+  <!-- 全局标题文本大小 -->
+  <dimen name="app_sub_textsize">13sp</dimen>
+  <!-- 全局副标题文本大小 -->
+  <dimen name="app_new_textsize">10sp</dimen>
+  <!-- 全局新消息提示文本大小 -->
+  <dimen name="app_new_layouth">15dp</dimen>
+  <!-- 全局新消息提示布局宽高 -->
+  <dimen name="app_new_layout_paddinglr">5dp</dimen>
+  <!-- 全局新消息提示布局内左右边距 -->
+  <dimen name="app_btn_textsize">16sp</dimen>
+  <!-- 全局按钮文本大小 -->
+  <dimen name="app_tab_textsize">14sp</dimen>
+  <!-- 全局tab选项卡文本大小 -->
+  <dimen name="app_btn_paddingtb">5dp</dimen>
+  <!-- 全局按钮内上下边距值 -->
+  <dimen name="app_btnh">40dp</dimen>
+  <!-- 全局按钮高度值 -->
+  <dimen name="bandwidth_btnh">35dp</dimen>
+  <!-- 签约带宽按钮高度值 -->
+  <dimen name="app_btn_marginlr">10dp</dimen>
+  <!-- 全局按钮外左右边距值 -->
+  <dimen name="app_horizontal_lineh">1px</dimen>
+  <!-- 全局分割线高度 -->
+  <dimen name="twobtn_layoutpaddinglr">10dp</dimen>
+  <!-- 双按钮内左右边距 -->
+  <dimen name="twobtn_leftbtn_marginr">10dp</dimen>
+  <!-- 双按钮左按钮外右边距 -->
+  <dimen name="twobtn_rightbtn_marginl">10dp</dimen>
+  <!-- 双按钮右按钮外左边距 -->
+  <dimen name="app_slipswitchw">80dp</dimen>
+  <!-- 全局滑动按钮宽 -->
+  <dimen name="app_slipswitchh">32dp</dimen>
+  <!-- 全局滑动按钮高 -->
+  <dimen name="edittext_withclear_paddinglr">10dp</dimen>
+  <!-- 自定义带清除图标的edittext左右内边距 -->
+  <dimen name="edittext_withclear_clearimg_marginr">3dp</dimen>
+  <!-- 自定义带清除图标的edittext清除图标外右边距 -->
+  <dimen name="edittext_withclear_clearimgwh">20dp</dimen>
+  <!-- 自定义带清除图标的edittext清除图标宽高 -->
+  <dimen name="top_progressbarwh">30dp</dimen>
+  <!-- 头部数据加载动画宽高 -->
+  <dimen name="top_progressbar_marginl">10dp</dimen>
+  <!-- 头部数据加载动画外左边距 -->
+  <dimen name="app_basicdialog_titleh">50dp</dimen>
+  <!-- 全局标准对话框标题高度 -->
+  <dimen name="app_basicdialog_titlesize">16sp</dimen>
+  <!-- 全局标准对话框标题文本大小 -->
+  <dimen name="app_basicdialog_btnsize">16sp</dimen>
+  <!-- 全局标准对话框按钮文本大小 -->
+  <dimen name="app_basicdialog_infomarginb">20dp</dimen>
+  <!-- 全局标准对话框文本外下边距 -->
+  <dimen name="app_basicdialog_editmarginb">10dp</dimen>
+  <!-- 全局标准对话框输入框外下边距 -->
+  <dimen name="app_basicdialog_inputh">50dp</dimen>
+  <!-- 全局标准对话框输入框高度 -->
+  <dimen name="app_basicdialog_contpadding">20dp</dimen>
+  <!-- 全局标准对话框内容部分内边距 -->
+  <dimen name="app_basicdialog_btnh">40dp</dimen>
+  <!-- 全局标准对话框按钮高度 -->
+  <dimen name="dialog_bandwidth_contpaddingl">20dp</dimen>
+  <!-- 指定带宽对话框内容部分内左边距 -->
+  <dimen name="login_marginto">360dp</dimen>
+
+  <!-- 登陆界面 -->
+  <dimen name="login_paddinglr">20dp</dimen>
+  <!-- 登陆界面整体内左右边距 -->
+  <dimen name="login_logoimg_margint">100dp</dimen>
+  <!-- 登陆界面logo图片外上边距 -->
+  <dimen name="login_logoimgw">147dp</dimen>
+  <!-- 登陆界面logo图片宽度 -->
+  <dimen name="login_logoimgh">179dp</dimen>
+  <!-- 登陆界面logo图片高度 -->
+  <dimen name="login_logininputbg_margint">60dp</dimen>
+  <!-- 登陆界面输入账号密码部分的外上边距 -->
+  <dimen name="login_login_itemlayouth">40dp</dimen>
+  <!-- 登陆界面输入部分单行高度 -->
+  <dimen name="login_username_iconwh">30px</dimen>
+  <!-- 登陆界面输入部分左边小图标的宽高 -->
+  <dimen name="login_iconmarginl">0dp</dimen>
+  <!-- 登陆界面输入部分左边小图标的外左边距 -->
+  <dimen name="login_iconmarginr">15dp</dimen>
+  <!-- 登陆界面输入部分左边小图标的外右边距 -->
+  <dimen name="login_input_tsize">14sp</dimen>
+  <!-- 登陆界面输入文本大小 -->
+  <dimen name="login_btnlogin_margint">40dp</dimen>
+  <!-- 登陆界面登陆按钮外上边距 -->
+  <dimen name="login_forgetregister_margint">20dp</dimen>
+  <!-- 登陆界面忘记密码注册账号部分外上边距 -->
+  <dimen name="login_forgetregister_textviewh">40dp</dimen>
+  <!-- 登陆界面忘记密码注册账号文本区域高度 -->
+  <!-- 头部 -->
+  <dimen name="app_top_height">70dp</dimen>
+  <!-- app默认头部高度 -->
+  <dimen name="app_top_ttextsize">16sp</dimen>
+  <!-- app头部标题文本大小 -->
+  <dimen name="app_top_leftright_btnimagewh">35dp</dimen>
+  <!-- app默认头部左边和右边按钮图片宽高 -->
+  <dimen name="app_top_right_textheight">30dp</dimen>
+  <!-- top_right_textview.xml 头部布局文件中右边文字的高度 -->
+  <dimen name="app_top_right_textsize">16sp</dimen>
+  <!-- top_right_textview.xml 头部布局文件中右边文字的字体大小 -->
+  <dimen name="app_top_right_text_marginRight">20dp</dimen>
+  <!-- top_right_textview.xml 头部布局文件中右边文字的内右边距 -->
+  <dimen name="app_top_progressBar_wh">28dp</dimen>
+  <!-- top中间转圈进度条宽高 -->
+
+
+  <!-- Tab选项卡 -->
+  <dimen name="tab_layout_padding">10dp</dimen>
+
+  <dimen name="telecom_item_rightbtnheight">30dp</dimen>
+  <!-- 电信超市右边按钮的高度 -->
+  <!-- 电信超市右边按钮的高度 -->
+  <dimen name="alert_width">290dp</dimen>
+  <dimen name="common_circle_width">2dp</dimen>
+  <dimen name="progress_circle_radius">34dp</dimen>
+  <dimen name="dgv_overlap_if_switch_straight_line">16dp</dimen>
+  <dimen name="space">2dp</dimen>
+  <!-- Default screen margins, per the Android Design guidelines. -->
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+  <!-- layout_height-->
+  <dimen name="layout_height_76dp">76dp</dimen>
+  <dimen name="layout_height_120dp">120dp</dimen>
+  <dimen name="layout_height_260dp">260dp</dimen>
+  <!-- layout_height -->
+  <dimen name="layout_height_0dp">0dp</dimen>
+  <dimen name="layout_height_1dp">1dp</dimen>
+  <dimen name="layout_height_10dp">10dp</dimen>
+  <dimen name="layout_height_15dp">15dp</dimen>
+  <dimen name="layout_height_16dp">16dp</dimen>
+  <dimen name="layout_height_20dp">20dp</dimen>
+  <dimen name="layout_height_22dp">22dp</dimen>
+  <dimen name="layout_height_25dp">25dp</dimen>
+  <dimen name="layout_height_30dp">30dp</dimen>
+  <dimen name="layout_height_36dp">36dp</dimen>
+  <dimen name="layout_height_39dp">39dp</dimen>
+  <dimen name="layout_height_40dp">40dp</dimen>
+  <dimen name="layout_height_42dp">42dp</dimen>
+  <dimen name="layout_height_43dp">43dp</dimen>
+  <dimen name="layout_height_45dp">45dp</dimen>
+  <dimen name="layout_height_50dp">50dp</dimen>
+  <dimen name="layout_height_51dp">51dp</dimen>
+  <dimen name="layout_height_60dp">60dp</dimen>
+  <dimen name="layout_height_62dp">62dp</dimen>
+  <dimen name="layout_height_80dp">80dp</dimen>
+  <dimen name="layout_height_84dp">84dp</dimen>
+  <dimen name="layout_height_89dp">89dp</dimen>
+
+  <dimen name="layout_height_250dp">250dp</dimen>
+
+  <dimen name="login_textview_height">65dp</dimen>
+
+  <!-- text -->
+  <dimen name="text_size_10sp">10sp</dimen>
+  <dimen name="text_size_12sp">12sp</dimen>
+  <dimen name="text_size_14sp">14sp</dimen>
+  <dimen name="text_size_16sp">16sp</dimen>
+  <dimen name="text_size_18sp">18sp</dimen>
+  <dimen name="text_size_20sp">20sp</dimen>
+  <dimen name="text_size_22sp">22sp</dimen>
+  <dimen name="text_size_24sp">24sp</dimen>
+  <dimen name="text_size_32sp">32sp</dimen>
+
+  <!--radius-->
+  <dimen name="radius_0dp">0dp</dimen>
+
+  <!--cardElevation-->
+  <dimen name="card_elevation_0dp">0dp</dimen>
+  <!--calendar-->
+  <dimen name="layout_width_130dp">130dp</dimen>
+  <dimen name="calendar_seperator_width">1dp</dimen>
+  <dimen name="calendar_label_height">60dp</dimen>
+  <dimen name="calendar_text_size_day">16sp</dimen>
+  <dimen name="calendar_text_size_month">16sp</dimen>
+  <dimen name="calendar_text_size_day_name">10sp</dimen>
+  <dimen name="calendar_header_month_height">25dp</dimen>
+  <dimen name="calendar_selected_day_radius">18dp</dimen>
+  <dimen name="calendar_height">270dp</dimen>
+
+  <dimen name="app_margin_4dp">4dp</dimen>
+  <dimen name="app_margin_5dp">5dp</dimen>
+  <dimen name="app_margin_6dp">6dp</dimen>
+  <dimen name="app_margin_7dp">7dp</dimen>
+  <dimen name="app_margin_8dp">8dp</dimen>
+  <dimen name="app_margin_9dp">9dp</dimen>
+  <dimen name="app_margin_10dp">10dp</dimen>
+  <dimen name="app_margin_11dp">11dp</dimen>
+  <dimen name="app_margin_12dp">12dp</dimen>
+  <dimen name="app_margin_14dp">14dp</dimen>
+  <dimen name="app_margin_15dp">15dp</dimen>
+  <dimen name="app_margin_16dp">16dp</dimen>
+  <dimen name="app_margin_18dp">18dp</dimen>
+  <dimen name="app_margin_20dp">20dp</dimen>
+  <dimen name="app_margin_23dp">23dp</dimen>
+  <dimen name="app_margin_24dp">24dp</dimen>
+  <dimen name="app_margin_25dp">25dp</dimen>
+  <dimen name="app_margin_30dp">30dp</dimen>
+  <dimen name="app_margin_32dp">32dp</dimen>
+  <dimen name="app_margin_40dp">40dp</dimen>
+  <dimen name="app_margin_58dp">58dp</dimen>
+  <dimen name="app_margin_67dp">67dp</dimen>
+  <dimen name="app_margin_72dp">72dp</dimen>
+  <dimen name="app_margin_112dp">112dp</dimen>
+  <dimen name="divider_dp">1dp</dimen>
+  <dimen name="divider">1px</dimen>
+  <dimen name="button_corner_radius">4dp</dimen>
+  <dimen name="layout_width_165dp">165dp</dimen>
+  <dimen name="layout_width_205dp">205dp</dimen>
+  <dimen name="layout_width_260dp">260dp</dimen>
+  <dimen name="app_margin_80dp">80dp</dimen>
+  <dimen name="layout_width_50dp">50dp</dimen>
+
+</resources>
