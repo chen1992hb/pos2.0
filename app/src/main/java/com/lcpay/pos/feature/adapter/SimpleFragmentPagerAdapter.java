@@ -1,13 +1,15 @@
-package com.lcpay.pos.feature.main;
+package com.lcpay.pos.feature.adapter;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+import com.lcpay.pos.feature.ui.fragment.home.PageFragment;
+
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
   final int PAGE_COUNT = 3;
-  private String tabTitles[] = new String[]{"tab1","tab2","tab3"};
+  private String tabTitles[] = new String[]{"", "", ""};
   private Context context;
 
   public SimpleFragmentPagerAdapter(FragmentManager fm,Context context) {

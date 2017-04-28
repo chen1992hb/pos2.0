@@ -6,12 +6,16 @@
   <color name="colorPrimaryDark">@color/black</color>
   <color name="colorAccent">@color/black</color>
   <color name="windowBackground">@color/black</color>
-
+    <color name="colorTheme">#ffce3d3a</color>
+    <color name="colorWhite">#ffffffff</color>
   <color name="loantextColor">#A89570</color>
   <color name="dust40">#C1B38A</color>
   <color name="dust50">#BBAD84</color>
   <color name="dust100">#86754D</color>
-
+    <!--tab标签栏文字的颜色-->
+    <color name="colorTabText">#585858</color>
+    <!--页面背景的颜色-->
+    <color name="colorPageBg">#f2f4f5</color>
   <color name="gray">#404040</color>
   <color name="transparent">#00000000</color>
   <!-- 透明色 -->

@@ -1,5 +1,7 @@
 <resources>
-  <string name="app_name">pos</string>
-  <string name="toolbar_back">返回</string>
-  <string name="loading">loading</string>
+    <string name="app_name">pos</string>
+    <string name="toolbar_back">返回</string>
+    <string name="loading">loading</string>
+    <string name="logintitle" translatable="false">扫呗──您的生意管家</string>
+    <string name="servicenumber" translatable="false">请拨打400&#8211;027&#8211;0899联系客服开通</string>
 </resources>

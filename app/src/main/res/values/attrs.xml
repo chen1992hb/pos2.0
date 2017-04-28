@@ -6,5 +6,7 @@
     <attr format="string" name="TitleText"/>
     <attr format="string" name="SubTitleText"/>
     <attr format="reference" name="Logo"/>
+
   </declare-styleable>
+
 </resources>

@@ -1,4 +1,4 @@
-package com.lcpay.pos.feature.main;
+package com.lcpay.pos.feature.ui.fragment.home;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
 import com.lcpay.pos.R;
 
 public class  PageFragment extends Fragment {
